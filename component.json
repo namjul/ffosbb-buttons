@@ -7,7 +7,7 @@
   "styles": [
     "buttons.css"
   ],
-  "images" [
+  "images": [
     "buttons/images/icons/dialog.png",
     "buttons/images/icons/view.png",
     "buttons/images/ui/danger-disabled.png",
