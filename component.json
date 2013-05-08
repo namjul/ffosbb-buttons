@@ -1,0 +1,23 @@
+{
+  "name": "ffosbb-buttons",
+  "repo": "namjul/ffosbb-buttons",
+  "description": "Firefox OS Building Blocks buttons component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "images": [
+  ],
+  "styles": [
+    "buttons.css"
+  ],
+  "images" [
+    "buttons/images/icons/dialog.png",
+    "buttons/images/icons/view.png",
+    "buttons/images/ui/danger-disabled.png",
+    "buttons/images/ui/danger-press.png",
+    "buttons/images/ui/danger.png",
+    "buttons/images/ui/default.png",
+    "buttons/images/ui/disabled.png",
+    "buttons/images/ui/recommend.png",
+    "buttons/images/ui/shadow.png"
+  ]
+}
