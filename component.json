@@ -4,8 +4,6 @@
   "description": "Firefox OS Building Blocks buttons component.",
   "version": "0.0.1",
   "keywords": [],
-  "images": [
-  ],
   "styles": [
     "buttons.css"
   ],
